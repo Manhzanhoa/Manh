@@ -1,0 +1,86 @@
+.boxbox{
+    margin-left: 300px;
+    margin-top: -20px;
+}
+.box1{
+    background-color: blanchedalmond;
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding-right: 50px;
+    list-style-type: none;
+    font-size: 30px;
+    margin-top: 10px;  
+}
+.box .box1:hover{
+    background-color: chocolate;
+    cursor: pointer;
+    transform: scale(1.2);
+    border-radius: 20%; 
+    list-style: none;
+}
+.box2{
+    background-color:pink;
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding-right: 50px;
+    list-style-type: none;
+    font-size: 30px;
+    margin-top: 10px;
+    list-style: none;
+}
+.box .box2:hover{
+    background-color: plum;
+    cursor: pointer;
+    transform: scale(1.2);
+    border-radius: 20%; 
+}
+.box3{
+    background-color: rgb(176, 202, 136);
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding-right: 50px;
+    list-style-type: none;
+    font-size: 30px;
+    margin-top: 10px;
+}
+.box .box3:hover{
+    background-color: rgb(134, 150, 76);
+    cursor: pointer;
+    transform: scale(1.2);
+    border-radius: 20%; 
+}
+.box4{
+    background-color: rgb(81, 137, 211);
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding-right: 50px;
+    list-style-type: none;
+    font-size: 30px;
+    margin-top: 10px;
+}
+.box .box4:hover{
+    background-color: rgb(173, 118, 54);
+    cursor: pointer;
+    transform: scale(1.2);
+    border-radius: 20%; 
+}
+.box5{
+    background-color: navajowhite;
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding-right: 50px;
+    list-style-type: none;
+    font-size: 30px;
+    margin-top: 10px;
+}
+.box .box5:hover{
+    background-color: rgba(185, 139, 85, 0.856);
+    cursor: pointer;
+    transform: scale(1.2);
+    border-radius: 20%; 
+}
